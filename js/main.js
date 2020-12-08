@@ -1,13 +1,3 @@
-/*==============================================================================
-
- * Template Name: Optio - CV, Resume, vCard, Portfolio HTML Template
- * Template URI: 
- * Author: ixtheme - (https://themeforest.net/user/ixtheme)
- * Description: CV, Resume, vCard, Portfolio HTML Template
- * Version: 1.0
- * Copyright 2019 ixtheme
-
- ==============================================================================*/
 
 (function ($) {
     "use strict";
