@@ -1365,4 +1365,9 @@ textarea.input_field {
 	color: #3deaa4;
 }
 
+.project-dim{
+	width: 20rem;
+	height: 9rem;
+}
+
 /* end main-wrapper */
